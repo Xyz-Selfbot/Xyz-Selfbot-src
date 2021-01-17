@@ -1,4 +1,5 @@
-# A
+# READ
+Alucard Skid For Testing Dont Use This Just Use https://github.com/Alucard-Selfbot/Alucard-Selfbot-src
 
 # Q&A
 - Q: **`SSL Certificate Error`**
